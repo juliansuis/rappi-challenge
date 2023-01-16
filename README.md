@@ -9,4 +9,4 @@ Es un principio que propone que cada clase, modulo, funcion, componente, etc, de
 Un código limpio, en mi opinión, es aquel que es prolijo y fácil de entender. Con nombres claros y descriptivos que te permiten entender la finalidad de funciones o clases sin necesidad de mirar su contenido. Un código que puede escalar fácilmente, sin tener que ser modificado. Que permite testear sus distintos components de manera individual.
 
 Aclaraciones:
-Con más tiempo me hubiese gustado implementar Unit Testing, cambiar algunos detalles como el theme. Agregar más detalles de la película y un diseño más elaborado en la pantalla de detalle de la película. Implementar Compose para alguna vista. Generar una clase de mapping para intercambiar las clases de entity/DTO/uiModel.
+Con más tiempo me hubiese gustado implementar Unit Testing. Hacer que los packages "presentation" "domain" "data" sean modulos. Implementar Compose para alguna vista. Generar una clase de mapping para intercambiar las clases de entity/DTO/uiModel. Cambiar algunos detalles como el theme. Agregar más detalles de la película y un diseño más elaborado en la pantalla de detalle de la película.
