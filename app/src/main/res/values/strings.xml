@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">rappi-challenge</string>
+    <string name="app_logo">app_logo</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="poster">poster</string>
+    <string name="recommended_for_you">Recommended for you</string>
+    <string name="in_spanish">In Spanish</string>
+    <string name="released_in_1993">Released in 1993</string>
+    <string name="watch_trailer">Watch Trailer</string>
 </resources>
